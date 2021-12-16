@@ -36,6 +36,12 @@
 	margin-left: 300px;
 }
 }
+@media screen and (max-width:1050px){
+.w1000{
+	width: 90%;
+	margin: 0 5%;
+}
+}
 @media screen and (max-width:900px){
 .kv{
 	height: 500px;
